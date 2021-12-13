@@ -3,7 +3,7 @@
 Yêu cầu máy cần cài đặt:
 - NodeJs
 - MongoDB
-- Talend Visual Studio
+- Talend Open Studio for ESB
 - Visual Studio Code
 
 Sau khi đã cài đặt các phần trên, bạn kéo code client và server từ link git sau (kéo từ nhánh main):
