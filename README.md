@@ -7,7 +7,8 @@ Yêu cầu máy cần cài đặt:
 - Visual Studio Code
 
 **B1 Cài đặt Client và Server Nodejs**
-Sau khi đã cài đặt các phần trên, bạn kéo code client và server từ link git sau (kéo từ nhánh main):
+
+* Sau khi đã cài đặt các phần trên, bạn kéo code client và server từ link git sau (kéo từ nhánh main):
 - Client: https://github.com/Haidang124/qlda-client.git
 - Server Nodejs: https://github.com/Haidang124/qlda-server.git
 
