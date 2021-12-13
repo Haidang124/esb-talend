@@ -6,7 +6,7 @@ Yêu cầu máy cần cài đặt:
 - Talend Open Studio for ESB
 - Visual Studio Code
 
-B1 Cài đặt Client và Server Nodejs
+**B1 Cài đặt Client và Server Nodejs**
 Sau khi đã cài đặt các phần trên, bạn kéo code client và server từ link git sau (kéo từ nhánh main):
 - Client: https://github.com/Haidang124/qlda-client.git
 - Server Nodejs: https://github.com/Haidang124/qlda-server.git
@@ -14,7 +14,7 @@ Sau khi đã cài đặt các phần trên, bạn kéo code client và server t�
 Sau khi kéo code về thành công, chạy "npm i" tại client và server để tải các thư viện cần thiết.
 Vào trang web tại địa chỉ "http://localhost:3001", tạo tài khoản và đăng nhập vào trang web.
 
-B2 Cài đặt Server Talend
+**B2 Cài đặt Server Talend**
 + Clone code Server Talend tại: https://github.com/Haidang124/esb-talend.git
 + Mở Talend Open Studio For ESB, sau đó import folder vừa clone code ở Server Talend và mở file project lên.
 + Import các thư viện cần thiết và bấm run khi đó Server chạy ở "http://localhost:3003"
